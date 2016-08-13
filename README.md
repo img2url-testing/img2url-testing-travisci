@@ -1,4 +1,4 @@
 # img2url-testing-travisci
 For testing img2url.
 
-access token: 15ce26ec553f63fe8ab629eba677f5cc0d30f0c0
+access token: f147342235e9e784350c98e6907e919537b051e9
